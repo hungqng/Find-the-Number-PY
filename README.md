@@ -1,2 +1,6 @@
 # Find-the-Number-PY
-Hackerrank practice
+- Hackerrank practice
+
+## Built With
+- VS Code
+- Python
